@@ -11,5 +11,5 @@ Now it has:
 * Easy RM to MP3
 * Millenium MP3 Studio
 * Soritong MP3 Player 1.0
-
+* DVDXPlayer
 ![](https://i.imgur.com/mHo3cYE.png)
