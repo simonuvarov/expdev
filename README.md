@@ -12,4 +12,4 @@ Now it has:
 * Millenium MP3 Studio
 * Soritong MP3 Player 1.0
 
-![](https://i.imgur.com/XlPMH58.png)
+![](https://i.imgur.com/mHo3cYE.png)
