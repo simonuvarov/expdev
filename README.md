@@ -12,4 +12,6 @@ Now it has:
 * Millenium MP3 Studio
 * Soritong MP3 Player 1.0
 * DVDXPlayer
+* Kolibri Web Server
+
 ![](https://i.imgur.com/mHo3cYE.png)
